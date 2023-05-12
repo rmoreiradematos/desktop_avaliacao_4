@@ -1,0 +1,5 @@
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\publish\avaliacao.exe
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\publish\avaliacao.dll
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\publish\avaliacao.deps.json
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\publish\avaliacao.runtimeconfig.json
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\publish\avaliacao.pdb

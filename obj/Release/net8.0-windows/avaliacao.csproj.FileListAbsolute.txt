@@ -1,0 +1,15 @@
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\avaliacao.exe
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\avaliacao.deps.json
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\avaliacao.runtimeconfig.json
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\avaliacao.dll
+C:\Users\rodri\Desktop\avaliacao\bin\Release\net8.0-windows\avaliacao.pdb
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.AssemblyInfo.cs
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.dll
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\refint\avaliacao.dll
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.pdb
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\avaliacao.genruntimeconfig.cache
+C:\Users\rodri\Desktop\avaliacao\obj\Release\net8.0-windows\ref\avaliacao.dll
